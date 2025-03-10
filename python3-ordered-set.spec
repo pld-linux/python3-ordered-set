@@ -5,7 +5,7 @@
 Summary:	A mutable set that remembers the order of its entries
 Name:		python3-%{module}
 Version:	4.1.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{module}/%{module}-%{version}.tar.gz
